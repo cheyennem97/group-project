@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.cheyenne-styles { 
+    color: honeydew;
+    background-color: black; 
+    padding: 3px;
+}
